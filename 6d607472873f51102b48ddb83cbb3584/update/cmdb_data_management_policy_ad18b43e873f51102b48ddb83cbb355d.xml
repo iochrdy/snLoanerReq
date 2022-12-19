@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_data_management_policy">
+    <cmdb_data_management_policy action="INSERT_OR_UPDATE">
+        <archive_for_days>0</archive_for_days>
+        <cmdb_policy_type display_value="Retire">66306fcb7352201026f6aa114df6a77c</cmdb_policy_type>
+        <description/>
+        <encoded_query/>
+        <name>test policy</name>
+        <needs_review>false</needs_review>
+        <policy_execution_job/>
+        <subflow display_value="Retire Configuration Items">11c9511d73fe201026f6aa114df6a751</subflow>
+        <sys_class_name>cmdb_data_management_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-19 18:58:00</sys_created_on>
+        <sys_id>ad18b43e873f51102b48ddb83cbb355d</sys_id>
+        <sys_name>test policy</sys_name>
+        <sys_package display_value="Loaner Request" source="x_snc_loan_reqio">6d607472873f51102b48ddb83cbb3584</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">6d607472873f51102b48ddb83cbb3584</sys_scope>
+        <sys_update_name>cmdb_data_management_policy_ad18b43e873f51102b48ddb83cbb355d</sys_update_name>
+        <table/>
+        <task_due_in_days/>
+        <task_management_group display_value="Managed By Group" element="managed_by_group" name="cmdb_ci">f033e4ec873311102b48ddb83cbb35d7</task_management_group>
+        <user_group/>
+    </cmdb_data_management_policy>
+</record_update>

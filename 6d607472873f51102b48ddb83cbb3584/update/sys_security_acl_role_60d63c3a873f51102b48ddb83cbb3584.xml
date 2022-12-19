@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-19 18:52:29</sys_created_on>
+        <sys_id>60d63c3a873f51102b48ddb83cbb3584</sys_id>
+        <sys_name>x_snc_loan_reqio_loaner_request.x_snc_loan_reqio.loaner_request_user</sys_name>
+        <sys_package display_value="Loaner Request" source="x_snc_loan_reqio">6d607472873f51102b48ddb83cbb3584</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">6d607472873f51102b48ddb83cbb3584</sys_scope>
+        <sys_security_acl display_value="x_snc_loan_reqio_loaner_request">28d63c3a873f51102b48ddb83cbb3581</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_60d63c3a873f51102b48ddb83cbb3584</sys_update_name>
+        <sys_user_role display_value="x_snc_loan_reqio.loaner_request_user" name="x_snc_loan_reqio.loaner_request_user">6f707c72873f51102b48ddb83cbb3530</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
